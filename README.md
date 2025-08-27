@@ -1,133 +1,300 @@
 # 👋 Hi, I'm Rama Charan Pisupati
 
-> *Building intelligent systems that actually work in production*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+AI+Developer;Building+Production-Ready+Systems;Final+Year+B.Tech+AI%2FML+Student" alt="Typing SVG" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rama-charan-50425021b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100+-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pvrcharan2022/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rama.charan.official@gmail.com)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-charan-50425021b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pvrcharan2022/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rama.charan.official@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
-## 🤔 Who Am I?
+</div>
 
-I'm a final-year B.Tech AI/ML student who believes in writing code that doesn't just work, but works *well*. Currently turning caffeine into production-ready AI systems and occasionally solving LeetCode problems to prove I remember what algorithms are.
+---
 
-- 🔬 **Research Intern @ IIIT Nagpur** - Teaching machines to spot skin lesions (98.65% accuracy, not bad for artificial eyes!)
-- 🚀 **Full-Stack AI Developer** - Building systems that serve 100+ users without catching fire
-- 📊 **CGPA: 8.48/10** - Because perfect scores are overrated, but good enough scores get you places
-- 🏆 **Problem Solver** - 100+ LeetCode problems conquered (and counting)
+## 🚀 About Me
 
-## 💻 What I Actually Know
+I'm a passionate **Full-Stack AI Developer** and final-year B.Tech AI/ML student who transforms ideas into production-ready solutions. Currently building intelligent systems that serve 100+ users while maintaining 99.9% uptime.
 
-### Languages That Don't Give Me Nightmares
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database_Whisperer-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Automation_Wizard-4EAA25?style=flat&logo=gnubash&logoColor=white)
+```python
+class RamaCharan:
+    def __init__(self):
+        self.role = "Full-Stack AI Developer"
+        self.location = "Vijayawada, Andhra Pradesh, India"
+        self.education = "B.Tech AI/ML (CGPA: 8.48/10)"
+        self.current_focus = ["Production AI Systems", "Full-Stack Development", "Research"]
+        self.experience = {
+            "research_intern": "IIIT Nagpur",
+            "projects": "10+ Production-Ready Applications",
+            "leetcode_solved": "100+",
+            "aws_certified": True
+        }
+    
+    def current_work(self):
+        return [
+            "🔬 Researching ConvNeXt + ViT hybrid models for medical imaging",
+            "🚀 Building scalable AI-powered web applications",
+            "📚 Mentoring students at AI HUB",
+            "💼 Developing enterprise-grade ATS platform"
+        ]
+```
 
-### AI/ML Arsenal
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-RAG_Systems-1C3C3C?style=flat)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+---
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-Container_Ninja-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Terminal_Enthusiast-FCC624?style=flat&logo=linux&logoColor=black)
+## 🛠️ Tech Arsenal
 
-### Databases (The Data Lives Here)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_Search-6366F1?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+<div align="center">
 
-## 🚀 Projects That Actually Matter
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏅 Competition Wins
+**🥇 Code Spark 2024** - 1st Place  
+*HackerEarth Platform*
+
+**🥇 Data Hunt Hackathon 2023** - 1st Place  
+*75K+ Airport Records Analysis*
+
+**🎯 LeetCode** - 100+ Problems Solved  
+*Active Problem Solver*
+
+</td>
+<td align="center" width="50%">
+
+### 📜 Certifications
+**☁️ AWS Certified AI Practitioner**  
+*Cloud AI Services & Architecture*
+
+**🎨 UI/UX Design Certification**  
+*GUVI - Design Thinking & Figma*
+
+**🐍 NPTEL Data Science using Python**  
+*Comprehensive Python & ML*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
 
 ### 🤖 Smart AI-Powered ATS Platform
-*The system that makes HR's life easier (and mine more complicated)*
+*Production-grade recruitment system serving 100+ users*
 
-**Tech**: Flask, Python, Qdrant, LangChain, Docker
-- Built a production-grade ATS that doesn't crash when 1000+ users hit it simultaneously
-- Reduced resume screening time by 60% (HR teams everywhere rejoice)
-- 95%+ parsing accuracy because "close enough" isn't good enough
-- **Real impact**: Currently handling actual recruitment workflows
+[![Tech](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](link)
+[![Tech](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](link)
+[![Tech](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)](link)
+[![Tech](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](link)
 
-### 🔍 Metallic Surface Defect Detection
-*Teaching computers to spot industrial flaws better than humans*
+**Key Achievements:**
+- ⚡ **60% reduction** in resume screening time
+- 📊 **95%+ parsing accuracy** for resume analysis
+- 🔒 **JWT authentication** with role-based access
+- 🐳 **Dockerized deployment** on AWS infrastructure
+- 📈 **<200ms response time** under load
 
-**Tech**: PyTorch, YOLOv8n, Tesla P100, Roboflow
-- Trained on 2,760 images of metallic surfaces (yes, I looked at that many metal photos)
-- GPU-accelerated training because waiting is for the patient
-- **Published**: Available on Hugging Face for other researchers
+---
 
-### 🗣️ Telugu Text-to-Speech
-*Making AI speak my mother tongue*
+### 🔍 Medical AI: Skin Lesion Classification
+*Advanced CNN research achieving clinical-grade accuracy*
 
-**Tech**: SpeechT5, HuggingFace, HiFi-GAN
-- Fine-tuned SpeechT5 for Telugu using 8,576 audio samples
-- **116+ downloads** on Hugging Face (people actually use this!)
-- Built custom transliteration pipeline (because Telugu script is beautiful but complex)
+[![Tech](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](link)
+[![Tech](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](link)
+[![Published](https://img.shields.io/badge/Published-HF_Hub-yellow)](link)
 
-### ⚡ LogFast - High-Performance Log Analyzer
-*C++ project that processes logs faster than you can generate them*
+**Research Impact:**
+- 🎯 **98.65% sensitivity** on HAM10000 dataset
+- 🧠 **ConvNeXt + ViT+CBAM** hybrid architecture
+- 🔬 **Multi-modal pipeline** with dermoscopic features
+- 📚 **Published on Hugging Face** for research community
 
-**Tech**: Modern C++17, Threading, STL
-- Custom thread pool architecture with lock-free operations
-- Handles millions of log entries without breaking a sweat
-- **Use case**: Perfect for high-frequency trading systems (if I ever go to Wall Street)
+---
 
-## 📈 GitHub Stats (Because Numbers Don't Lie)
+### ⚡ LogFast: High-Performance Log Analyzer
+*C++17 system processing millions of logs efficiently*
+
+[![Tech](https://img.shields.io/badge/C++17-00599C?style=flat&logo=cplusplus&logoColor=white)](link)
+[![Tech](https://img.shields.io/badge/Threading-FF6B6B?style=flat&logo=threading&logoColor=white)](link)
+
+**Performance Features:**
+- 🚀 **Custom thread pool** architecture
+- 🔒 **Lock-free operations** for high throughput
+- 💾 **Memory-efficient** processing
+- ⚙️ **Optimized regex** parsing
+
+---
+
+### 🗣️ Telugu Text-to-Speech System
+*Making AI speak regional languages*
+
+[![Tech](https://img.shields.io/badge/SpeechT5-FF6F61?style=flat&logo=speechT5&logoColor=white)](link)
+[![Downloads](https://img.shields.io/badge/Downloads-116+-brightgreen)](link)
+
+**Language Processing:**
+- 🎵 **8,576 audio samples** training dataset
+- 🔤 **Custom transliteration** pipeline
+- 📱 **116+ downloads** on Hugging Face
+- 🌏 **Regional language support** for Telugu
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Epik-Whale463&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epik-Whale463&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Epik-Whale463&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Epik-Whale463&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF7B72&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Epik-Whale463&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epik-Whale463&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
-## 🏆 Real Achievements (Not Just Participation Trophies)
+### 📈 Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Epik-Whale463&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff7b72&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
-- **🥇 Code Spark Competition 2024** - 1st Place (HackerEarth platform)
-- **🥇 Data Hunt Hackathon 2023** - 1st Place (Analyzed 75K+ airport records, helped solve a digital theft case)
-- **🔬 Research Intern @ IIIT Nagpur** - Working on skin disease detection (98.65% sensitivity achieved)
-- **📜 AWS Certified AI Practitioner** - Because cloud skills pay the bills
-- **🎓 CGPA: 8.48/10** - Consistent performance without burning out
+---
 
-## 🎯 What I'm Currently Up To
+## 🎯 Current Focus Areas
 
-- 🔬 **Research**: Improving skin lesion classification using ConvNeXt and ViT+CBAM hybrids
-- 💼 **Building**: Production-ready AI systems that don't fall over under load
-- 🧠 **Learning**: Advanced system design and LLM optimization techniques
-- 📚 **Teaching**: Mentoring junior students in AI/ML concepts at AI HUB
+<div align="center">
 
-## 💭 Philosophy
+```mermaid
+mindmap
+  root((Rama Charan))
+    Research
+      Medical AI
+      Computer Vision
+      LLM Applications
+    Development
+      Full-Stack Apps
+      Microservices
+      CI/CD Pipelines
+    Learning
+      System Design
+      Cloud Architecture
+      Advanced Algorithms
+    Community
+      AI HUB Mentoring
+      Knowledge Sharing
+      Open Source
+```
 
-*"Code should be written for humans to read, and only incidentally for machines to execute."* 
+</div>
 
-I believe in building systems that are:
-- **Reliable** - Works in production, not just on your laptop
-- **Scalable** - Handles growth without architectural rewrites
-- **Maintainable** - Future you (and your team) will thank you
+**🔬 Research**: Advancing medical AI with hybrid CNN architectures  
+**💻 Development**: Building scalable, production-ready applications  
+**📚 Learning**: System design, cloud architecture, and LLM optimization  
+**👥 Community**: Mentoring 50+ students through AI HUB initiatives
 
-## 📫 Let's Connect!
+---
 
-I'm always interested in discussing:
-- AI/ML system architecture
-- Production deployment challenges
-- Research collaboration opportunities
-- Why Python is simultaneously the best and worst language ever created
+## 🌟 Professional Journey
 
-**Best way to reach me**: Drop an email at `rama.charan.official@gmail.com`  
-**Response time**: Usually within 24 hours (unless I'm debugging something particularly stubborn)
+<div align="center">
+
+| Timeline | Role | Organization | Achievement |
+|----------|------|--------------|-------------|
+| **2025 - Present** | Research Intern | IIIT Nagpur | 98.65% medical AI accuracy |
+| **2025 - Present** | AI Mentor | AI HUB | 50+ students mentored |
+| **2024** | Competition Winner | HackerEarth | Code Spark 1st Place |
+| **2023** | Hackathon Winner | Data Hunt | 75K records analysis |
+| **2022 - 2026** | B.Tech Student | VVIT | CGPA: 8.48/10 |
+
+</div>
+
+---
+
+## 🎨 Fun Facts & Interests
+
+<div align="center">
+
+🎯 **Problem Solving**: 100+ LeetCode problems conquered  
+☕ **Fuel**: Converting coffee into production-ready code since 2022  
+🌍 **Languages**: English (Fluent), Telugu (Native), Hindi (Conversational)  
+🎮 **Philosophy**: *"Code should be written for humans to read"*  
+🚀 **Goal**: Building AI systems that make a real-world impact  
+
+</div>
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+I'm always excited to discuss:
+- 🤖 AI/ML system architecture and optimization
+- 🌐 Full-stack development and scalable systems
+- 🔬 Research collaboration in computer vision
+- 💼 Production deployment strategies and DevOps
+
+**📧 Email**: rama.charan.official@gmail.com  
+**⚡ Response Time**: Usually within 24 hours  
+**🌍 Location**: Vijayawada, Andhra Pradesh, India  
+**💼 Status**: Open to opportunities and collaborations
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Epik-Whale463&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Epik-Whale463&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 </div>
 
 <div align="center">
-  <i>"Building the future, one well-tested commit at a time."</i>
+<i>⭐ "Building the future, one well-tested commit at a time." ⭐</i>
+</div>
+
 </div>
