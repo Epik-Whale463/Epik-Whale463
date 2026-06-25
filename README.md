@@ -1,77 +1,57 @@
-<div align="center">
-
 # Rama Charan
-**AI & ML Engineer** · Final Year @ VVIT · Building @ AI4Bharat, IIT Madras
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-charan-50425021b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/pvrcharan2022/)
-[![AWS Certified](https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rama.charan.official@gmail.com)
+AI/ML Engineer · Bengaluru
 
-</div>
+Building applied AI for Indic languages — LLM pipelines, evals, and the
+backend that holds them up in production. Recently shipped Setu V2 at
+Pratilipi, a multi-stage LLM adaptation pipeline now in org-wide review
+for rollout across 12 Indic languages.
 
----
-
-## What I'm building
-
-RAG systems · Neural TTS · Distributed ML pipelines · CV inspection models — mostly at the intersection of production systems and ML.
-
-Currently full-stack AI at **AI4Bharat (IIT Madras)**, focused on low-resource Indian language tech.
+**Reach me:** rama.charan.official@gmail.com · [LinkedIn](https://www.linkedin.com/in/rama-charan-50425021b/) · [Resume](link-to-resume-if-hosted)
 
 ---
 
-## Recent Projects
+## What I work on
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Neural TTS** | Fine-tuned SpeechT5 for Telugu synthesis · 8.5K+ samples | PyTorch · HuggingFace |
-| **HackRAG** | FastAPI RAG system with semantic search | FastAPI · Qdrant · LangChain |
-| **Fraud Detection** | Distributed ML pipeline · 7M+ records | GCP Dataproc · Spark · Kafka |
-| **Defect Detection** | YOLOv8 industrial surface inspection model | PyTorch · OpenCV |
+- Multi-stage LLM pipelines with evals — decomposition over monolithic prompting
+- Multilingual NLP for Indic languages (translation, classification, TTS)
+- Backend that makes ML actually ship — FastAPI, async, auth, deployment
+- Eval and guardrail design for non-deterministic systems
 
----
+## Selected work
 
-## Tech
+**Setu V2** (private, Pratilipi) — 3-pass source-blind LLM adaptation pipeline
+replacing a single-pass V1. Authored a 7-dimension evals benchmark; 58% fewer
+adaptation defects on blind A/B with LLM-as-judge validated against human
+reviewers. In org-wide review for rollout.
 
-**ML / AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+**ContentClosureFlow** (private, Pratilipi) — Multilingual author-abandonment
+classifier (multilingual-e5-large + logistic regression) productionized as
+a daily AWS Step Function. 90.5% cross-lingual accuracy after diagnosing
+and fixing a label-leakage issue that took the first-pass score from 44.5%.
 
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**[KhetAI](https://github.com/Epik-Whale463/Capital-One_KhetAI)** — Tool-augmented LLM
+assistant for Indian agriculture queries. Intent-classified routing across
+6 live API tools (weather, mandi prices, plant disease ID, geolocation,
+news, LLM). Validated with 10 farmers near my college. Live as an Android APK.
 
-**Cloud & Data**
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+**[SpeechT5 Telugu TTS](https://huggingface.co/Epikwhale/speecht5_finetuned_telugu_charan)** —
+Fine-tuned SpeechT5 on 8,576 IndicTTS Telugu samples using a Telugu-to-Latin
+transliteration shim so the English-trained tokenizer could process Telugu.
+Validation loss 0.67 → 0.45. Open-sourced on Hugging Face; 600+ downloads.
+Loss-based evaluation only — see model card for limitations.
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+## Stack
 
----
+Python, TypeScript · PyTorch, Hugging Face, scikit-learn · FastAPI, Next.js,
+async · AWS (Step Functions, S3, ECR), GCP · PostgreSQL, MySQL, MongoDB,
+Qdrant · Auth0, SQLAlchemy
 
-## GitHub Stats
+## Background
 
-<div align="center">
+B.Tech AI/ML, VVIT (2026) · AI/ML Engineer Intern at Pratilipi (Feb-Jun 2026,
+Firebolts team) · Full-stack AI Intern at AI4Bharat / IIT Madras (Oct 2025 –
+Feb 2026)
 
-![Rama Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epik-Whale463&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Epik-Whale463&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-## Highlights
-
-- 🏆 **NPCI AI Quest** — Finalist
-- 🚀 **ISRO Hackathon 2025** — Top 140
-- ☁️ **AWS Certified** AI Practitioner
+AWS Certified AI Practitioner · NPCI Bharat AI Quest 2025 finalist ·
+ISRO Bharatiya Antariksha Hackathon 2025 shortlist
