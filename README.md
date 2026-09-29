@@ -7,7 +7,7 @@ backend that holds them up in production. Recently shipped Setu V2 at
 Pratilipi, a multi-stage LLM adaptation pipeline now in org-wide review
 for rollout across 12 Indic languages.
 
-**Reach me:** rama.charan.official@gmail.com · [LinkedIn](https://www.linkedin.com/in/rama-charan-50425021b/) · [Resume](link-to-resume-if-hosted)
+**Reach me:** rama.charan.official@gmail.com · [LinkedIn](https://www.linkedin.com/in/rama-charan-50425021b/)
 
 ---
 
