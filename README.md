@@ -3,8 +3,6 @@
 **Applied AI Engineer** · Bengaluru, India  
 I build AI systems at the point where models meet software: **evaluation, reliability, multilingual NLP, and the backend that makes them usable.**
 
-[Email](mailto:rama.charan.official@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rama-charan-50425021b/) · [GitHub](https://github.com/Epik-Whale463)
-
 ---
 
 ### The kind of problems I like
